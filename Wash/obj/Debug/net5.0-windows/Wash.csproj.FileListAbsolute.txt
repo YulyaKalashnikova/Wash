@@ -1,0 +1,288 @@
+C:\Users\gaste\source\repos\Wash\Wash\obj\Debug\net5.0-windows\Wash.csprojAssemblyReference.cache
+C:\Users\gaste\source\repos\Wash\Wash\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\gaste\source\repos\Wash\Wash\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\gaste\source\repos\Wash\Wash\obj\Debug\net5.0-windows\Wash_MarkupCompile.cache
+C:\Users\gaste\source\repos\Wash\Wash\obj\Debug\net5.0-windows\Wash_MarkupCompile.lref
+C:\Users\gaste\source\repos\Wash\Wash\bin\Debug\net5.0-windows\Wash.exe
+C:\Users\gaste\source\repos\Wash\Wash\bin\Debug\net5.0-windows\Wash.dll.config
+C:\Users\gaste\source\repos\Wash\Wash\bin\Debug\net5.0-windows\Wash.deps.json
+C:\Users\gaste\source\repos\Wash\Wash\bin\Debug\net5.0-windows\Wash.runtimeconfig.json
+C:\Users\gaste\source\repos\Wash\Wash\bin\Debug\net5.0-windows\Wash.runtimeconfig.dev.json
+C:\Users\gaste\source\repos\Wash\Wash\bin\Debug\net5.0-windows\Wash.dll
+C:\Users\gaste\source\repos\Wash\Wash\bin\Debug\net5.0-windows\ref\Wash.dll
+C:\Users\gaste\source\repos\Wash\Wash\bin\Debug\net5.0-windows\Wash.pdb
+C:\Users\gaste\source\repos\Wash\Wash\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\gaste\source\repos\Wash\Wash\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\gaste\source\repos\Wash\Wash\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gaste\source\repos\Wash\Wash\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gaste\source\repos\Wash\Wash\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\gaste\source\repos\Wash\Wash\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\gaste\source\repos\Wash\Wash\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\gaste\source\repos\Wash\Wash\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\gaste\source\repos\Wash\Wash\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\gaste\source\repos\Wash\Wash\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\gaste\source\repos\Wash\Wash\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\gaste\source\repos\Wash\Wash\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\gaste\source\repos\Wash\Wash\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\gaste\source\repos\Wash\Wash\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\gaste\source\repos\Wash\Wash\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\gaste\source\repos\Wash\Wash\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\gaste\source\repos\Wash\Wash\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\gaste\source\repos\Wash\Wash\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\gaste\source\repos\Wash\Wash\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\gaste\source\repos\Wash\Wash\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\gaste\source\repos\Wash\Wash\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\gaste\source\repos\Wash\Wash\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\gaste\source\repos\Wash\Wash\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\gaste\source\repos\Wash\Wash\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\gaste\source\repos\Wash\Wash\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\gaste\source\repos\Wash\Wash\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\gaste\source\repos\Wash\Wash\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gaste\source\repos\Wash\Wash\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\gaste\source\repos\Wash\Wash\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gaste\source\repos\Wash\Wash\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\gaste\source\repos\Wash\Wash\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gaste\source\repos\Wash\Wash\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\gaste\source\repos\Wash\Wash\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gaste\source\repos\Wash\Wash\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\gaste\source\repos\Wash\Wash\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\gaste\source\repos\Wash\Wash\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\gaste\source\repos\Wash\Wash\obj\Debug\net5.0-windows\Wash.g.resources
+C:\Users\gaste\source\repos\Wash\Wash\obj\Debug\net5.0-windows\Wash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gaste\source\repos\Wash\Wash\obj\Debug\net5.0-windows\Wash.AssemblyInfoInputs.cache
+C:\Users\gaste\source\repos\Wash\Wash\obj\Debug\net5.0-windows\Wash.AssemblyInfo.cs
+C:\Users\gaste\source\repos\Wash\Wash\obj\Debug\net5.0-windows\Wash.csproj.CoreCompileInputs.cache
+C:\Users\gaste\source\repos\Wash\Wash\obj\Debug\net5.0-windows\Wash.csproj.CopyComplete
+C:\Users\gaste\source\repos\Wash\Wash\obj\Debug\net5.0-windows\Wash.dll
+C:\Users\gaste\source\repos\Wash\Wash\obj\Debug\net5.0-windows\ref\Wash.dll
+C:\Users\gaste\source\repos\Wash\Wash\obj\Debug\net5.0-windows\Wash.pdb
+C:\Users\gaste\source\repos\Wash\Wash\obj\Debug\net5.0-windows\Wash.genruntimeconfig.cache
+C:\Users\gaste\source\repos\Wash\Wash\obj\Debug\net5.0-windows\App.baml
+C:\Users\gaste\source\repos\Wash\Wash\obj\Debug\net5.0-windows\AdminWindow.g.cs
+C:\Users\gaste\source\repos\Wash\Wash\obj\Debug\net5.0-windows\WorkerWindow.g.cs
+C:\Users\gaste\source\repos\Wash\Wash\obj\Debug\net5.0-windows\AdminWindow.baml
+C:\Users\gaste\source\repos\Wash\Wash\obj\Debug\net5.0-windows\WorkerWindow.baml
+C:\Users\gaste\source\repos\Wash\Wash\obj\Debug\net5.0-windows\AddWashWindow.g.cs
+C:\Users\gaste\source\repos\Wash\Wash\obj\Debug\net5.0-windows\AddWashWindow.baml
+C:\Users\gaste\source\repos\Wash\Wash\obj\Debug\net5.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\gaste\source\repos\Wash\Wash\obj\Debug\net5.0-windows\Wash.csproj.ResolveComReference.cache
+C:\Users\gaste\source\repos\Wash\Wash\obj\Debug\net5.0-windows\ChangeStatusWindow.g.cs
+C:\Users\gaste\source\repos\Wash\Wash\obj\Debug\net5.0-windows\ChangeStatusWindow.baml
+C:\Users\gaste\source\repos\Wash\Wash\obj\Debug\net5.0-windows\AddEmpoyeeWindow.g.cs
+C:\Users\gaste\source\repos\Wash\Wash\obj\Debug\net5.0-windows\AddEmpoyeeWindow.baml
+Z:\task\Wash\bin\Debug\net5.0-windows\Wash.exe
+Z:\task\Wash\bin\Debug\net5.0-windows\Wash.dll.config
+Z:\task\Wash\bin\Debug\net5.0-windows\Wash.deps.json
+Z:\task\Wash\bin\Debug\net5.0-windows\Wash.runtimeconfig.json
+Z:\task\Wash\bin\Debug\net5.0-windows\Wash.runtimeconfig.dev.json
+Z:\task\Wash\bin\Debug\net5.0-windows\Wash.dll
+Z:\task\Wash\bin\Debug\net5.0-windows\ref\Wash.dll
+Z:\task\Wash\bin\Debug\net5.0-windows\Wash.pdb
+Z:\task\Wash\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+Z:\task\Wash\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+Z:\task\Wash\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+Z:\task\Wash\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+Z:\task\Wash\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+Z:\task\Wash\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+Z:\task\Wash\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+Z:\task\Wash\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+Z:\task\Wash\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+Z:\task\Wash\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Z:\task\Wash\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+Z:\task\Wash\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+Z:\task\Wash\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+Z:\task\Wash\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+Z:\task\Wash\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+Z:\task\Wash\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\task\Wash\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+Z:\task\Wash\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+Z:\task\Wash\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\task\Wash\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+Z:\task\Wash\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+Z:\task\Wash\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+Z:\task\Wash\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+Z:\task\Wash\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+Z:\task\Wash\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Z:\task\Wash\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Z:\task\Wash\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\task\Wash\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+Z:\task\Wash\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\task\Wash\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+Z:\task\Wash\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\task\Wash\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+Z:\task\Wash\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\task\Wash\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+Z:\task\Wash\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+Z:\task\Wash\obj\Debug\net5.0-windows\Wash.csproj.AssemblyReference.cache
+Z:\task\Wash\obj\Debug\net5.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+Z:\task\Wash\obj\Debug\net5.0-windows\Wash.csproj.ResolveComReference.cache
+Z:\task\Wash\obj\Debug\net5.0-windows\AddEmpoyeeWindow.g.cs
+Z:\task\Wash\obj\Debug\net5.0-windows\AddWashWindow.g.cs
+Z:\task\Wash\obj\Debug\net5.0-windows\AdminWindow.g.cs
+Z:\task\Wash\obj\Debug\net5.0-windows\ChangeStatusWindow.g.cs
+Z:\task\Wash\obj\Debug\net5.0-windows\MainWindow.g.cs
+Z:\task\Wash\obj\Debug\net5.0-windows\WorkerWindow.g.cs
+Z:\task\Wash\obj\Debug\net5.0-windows\App.g.cs
+Z:\task\Wash\obj\Debug\net5.0-windows\Wash_MarkupCompile.cache
+Z:\task\Wash\obj\Debug\net5.0-windows\Wash_MarkupCompile.lref
+Z:\task\Wash\obj\Debug\net5.0-windows\App.baml
+Z:\task\Wash\obj\Debug\net5.0-windows\AddEmpoyeeWindow.baml
+Z:\task\Wash\obj\Debug\net5.0-windows\AddWashWindow.baml
+Z:\task\Wash\obj\Debug\net5.0-windows\AdminWindow.baml
+Z:\task\Wash\obj\Debug\net5.0-windows\ChangeStatusWindow.baml
+Z:\task\Wash\obj\Debug\net5.0-windows\MainWindow.baml
+Z:\task\Wash\obj\Debug\net5.0-windows\WorkerWindow.baml
+Z:\task\Wash\obj\Debug\net5.0-windows\Wash.g.resources
+Z:\task\Wash\obj\Debug\net5.0-windows\Wash.GeneratedMSBuildEditorConfig.editorconfig
+Z:\task\Wash\obj\Debug\net5.0-windows\Wash.AssemblyInfoInputs.cache
+Z:\task\Wash\obj\Debug\net5.0-windows\Wash.AssemblyInfo.cs
+Z:\task\Wash\obj\Debug\net5.0-windows\Wash.csproj.CoreCompileInputs.cache
+Z:\task\Wash\obj\Debug\net5.0-windows\Wash.csproj.CopyComplete
+Z:\task\Wash\obj\Debug\net5.0-windows\Wash.dll
+Z:\task\Wash\obj\Debug\net5.0-windows\ref\Wash.dll
+Z:\task\Wash\obj\Debug\net5.0-windows\Wash.pdb
+Z:\task\Wash\obj\Debug\net5.0-windows\Wash.genruntimeconfig.cache
+Z:\2 курс\ТИС\task\Wash\bin\Debug\net5.0-windows\Wash.exe
+Z:\2 курс\ТИС\task\Wash\bin\Debug\net5.0-windows\Wash.dll.config
+Z:\2 курс\ТИС\task\Wash\bin\Debug\net5.0-windows\Wash.deps.json
+Z:\2 курс\ТИС\task\Wash\bin\Debug\net5.0-windows\Wash.runtimeconfig.json
+Z:\2 курс\ТИС\task\Wash\bin\Debug\net5.0-windows\Wash.runtimeconfig.dev.json
+Z:\2 курс\ТИС\task\Wash\bin\Debug\net5.0-windows\Wash.dll
+Z:\2 курс\ТИС\task\Wash\bin\Debug\net5.0-windows\ref\Wash.dll
+Z:\2 курс\ТИС\task\Wash\bin\Debug\net5.0-windows\Wash.pdb
+Z:\2 курс\ТИС\task\Wash\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+Z:\2 курс\ТИС\task\Wash\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+Z:\2 курс\ТИС\task\Wash\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+Z:\2 курс\ТИС\task\Wash\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+Z:\2 курс\ТИС\task\Wash\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+Z:\2 курс\ТИС\task\Wash\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+Z:\2 курс\ТИС\task\Wash\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+Z:\2 курс\ТИС\task\Wash\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+Z:\2 курс\ТИС\task\Wash\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+Z:\2 курс\ТИС\task\Wash\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Z:\2 курс\ТИС\task\Wash\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+Z:\2 курс\ТИС\task\Wash\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+Z:\2 курс\ТИС\task\Wash\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+Z:\2 курс\ТИС\task\Wash\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+Z:\2 курс\ТИС\task\Wash\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+Z:\2 курс\ТИС\task\Wash\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\2 курс\ТИС\task\Wash\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+Z:\2 курс\ТИС\task\Wash\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+Z:\2 курс\ТИС\task\Wash\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\2 курс\ТИС\task\Wash\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+Z:\2 курс\ТИС\task\Wash\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+Z:\2 курс\ТИС\task\Wash\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+Z:\2 курс\ТИС\task\Wash\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+Z:\2 курс\ТИС\task\Wash\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+Z:\2 курс\ТИС\task\Wash\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Z:\2 курс\ТИС\task\Wash\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Z:\2 курс\ТИС\task\Wash\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\2 курс\ТИС\task\Wash\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+Z:\2 курс\ТИС\task\Wash\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\2 курс\ТИС\task\Wash\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+Z:\2 курс\ТИС\task\Wash\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\2 курс\ТИС\task\Wash\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+Z:\2 курс\ТИС\task\Wash\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\2 курс\ТИС\task\Wash\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+Z:\2 курс\ТИС\task\Wash\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+Z:\2 курс\ТИС\task\Wash\obj\Debug\net5.0-windows\Wash.csproj.AssemblyReference.cache
+Z:\2 курс\ТИС\task\Wash\obj\Debug\net5.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+Z:\2 курс\ТИС\task\Wash\obj\Debug\net5.0-windows\Wash.csproj.ResolveComReference.cache
+Z:\2 курс\ТИС\task\Wash\obj\Debug\net5.0-windows\AddEmpoyeeWindow.g.cs
+Z:\2 курс\ТИС\task\Wash\obj\Debug\net5.0-windows\AddWashWindow.g.cs
+Z:\2 курс\ТИС\task\Wash\obj\Debug\net5.0-windows\AdminWindow.g.cs
+Z:\2 курс\ТИС\task\Wash\obj\Debug\net5.0-windows\ChangeStatusWindow.g.cs
+Z:\2 курс\ТИС\task\Wash\obj\Debug\net5.0-windows\MainWindow.g.cs
+Z:\2 курс\ТИС\task\Wash\obj\Debug\net5.0-windows\WorkerWindow.g.cs
+Z:\2 курс\ТИС\task\Wash\obj\Debug\net5.0-windows\App.g.cs
+Z:\2 курс\ТИС\task\Wash\obj\Debug\net5.0-windows\Wash_MarkupCompile.cache
+Z:\2 курс\ТИС\task\Wash\obj\Debug\net5.0-windows\Wash_MarkupCompile.lref
+Z:\2 курс\ТИС\task\Wash\obj\Debug\net5.0-windows\App.baml
+Z:\2 курс\ТИС\task\Wash\obj\Debug\net5.0-windows\AddEmpoyeeWindow.baml
+Z:\2 курс\ТИС\task\Wash\obj\Debug\net5.0-windows\AddWashWindow.baml
+Z:\2 курс\ТИС\task\Wash\obj\Debug\net5.0-windows\AdminWindow.baml
+Z:\2 курс\ТИС\task\Wash\obj\Debug\net5.0-windows\ChangeStatusWindow.baml
+Z:\2 курс\ТИС\task\Wash\obj\Debug\net5.0-windows\MainWindow.baml
+Z:\2 курс\ТИС\task\Wash\obj\Debug\net5.0-windows\WorkerWindow.baml
+Z:\2 курс\ТИС\task\Wash\obj\Debug\net5.0-windows\Wash.g.resources
+Z:\2 курс\ТИС\task\Wash\obj\Debug\net5.0-windows\Wash.GeneratedMSBuildEditorConfig.editorconfig
+Z:\2 курс\ТИС\task\Wash\obj\Debug\net5.0-windows\Wash.AssemblyInfoInputs.cache
+Z:\2 курс\ТИС\task\Wash\obj\Debug\net5.0-windows\Wash.AssemblyInfo.cs
+Z:\2 курс\ТИС\task\Wash\obj\Debug\net5.0-windows\Wash.csproj.CoreCompileInputs.cache
+Z:\2 курс\ТИС\task\Wash\obj\Debug\net5.0-windows\Wash.csproj.CopyComplete
+Z:\2 курс\ТИС\task\Wash\obj\Debug\net5.0-windows\Wash.dll
+Z:\2 курс\ТИС\task\Wash\obj\Debug\net5.0-windows\ref\Wash.dll
+Z:\2 курс\ТИС\task\Wash\obj\Debug\net5.0-windows\Wash.pdb
+Z:\2 курс\ТИС\task\Wash\obj\Debug\net5.0-windows\Wash.genruntimeconfig.cache
+C:\Users\Julya\Desktop\Проекты\task\Wash\bin\Debug\net5.0-windows\Wash.exe
+C:\Users\Julya\Desktop\Проекты\task\Wash\bin\Debug\net5.0-windows\Wash.dll.config
+C:\Users\Julya\Desktop\Проекты\task\Wash\bin\Debug\net5.0-windows\Wash.deps.json
+C:\Users\Julya\Desktop\Проекты\task\Wash\bin\Debug\net5.0-windows\Wash.runtimeconfig.json
+C:\Users\Julya\Desktop\Проекты\task\Wash\bin\Debug\net5.0-windows\Wash.runtimeconfig.dev.json
+C:\Users\Julya\Desktop\Проекты\task\Wash\bin\Debug\net5.0-windows\Wash.dll
+C:\Users\Julya\Desktop\Проекты\task\Wash\bin\Debug\net5.0-windows\Wash.pdb
+C:\Users\Julya\Desktop\Проекты\task\Wash\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Julya\Desktop\Проекты\task\Wash\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Julya\Desktop\Проекты\task\Wash\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Julya\Desktop\Проекты\task\Wash\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Julya\Desktop\Проекты\task\Wash\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Julya\Desktop\Проекты\task\Wash\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Julya\Desktop\Проекты\task\Wash\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Julya\Desktop\Проекты\task\Wash\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Julya\Desktop\Проекты\task\Wash\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Julya\Desktop\Проекты\task\Wash\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Julya\Desktop\Проекты\task\Wash\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Julya\Desktop\Проекты\task\Wash\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Julya\Desktop\Проекты\task\Wash\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Julya\Desktop\Проекты\task\Wash\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Julya\Desktop\Проекты\task\Wash\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Julya\Desktop\Проекты\task\Wash\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Julya\Desktop\Проекты\task\Wash\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Julya\Desktop\Проекты\task\Wash\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Julya\Desktop\Проекты\task\Wash\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Julya\Desktop\Проекты\task\Wash\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Julya\Desktop\Проекты\task\Wash\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\Julya\Desktop\Проекты\task\Wash\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Julya\Desktop\Проекты\task\Wash\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Julya\Desktop\Проекты\task\Wash\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\Julya\Desktop\Проекты\task\Wash\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Julya\Desktop\Проекты\task\Wash\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Julya\Desktop\Проекты\task\Wash\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Julya\Desktop\Проекты\task\Wash\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Julya\Desktop\Проекты\task\Wash\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Julya\Desktop\Проекты\task\Wash\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Julya\Desktop\Проекты\task\Wash\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Julya\Desktop\Проекты\task\Wash\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Julya\Desktop\Проекты\task\Wash\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Julya\Desktop\Проекты\task\Wash\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Julya\Desktop\Проекты\task\Wash\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Julya\Desktop\Проекты\task\Wash\obj\Debug\net5.0-windows\Wash.csproj.AssemblyReference.cache
+C:\Users\Julya\Desktop\Проекты\task\Wash\obj\Debug\net5.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\Julya\Desktop\Проекты\task\Wash\obj\Debug\net5.0-windows\Wash.csproj.ResolveComReference.cache
+C:\Users\Julya\Desktop\Проекты\task\Wash\obj\Debug\net5.0-windows\AddEmpoyeeWindow.g.cs
+C:\Users\Julya\Desktop\Проекты\task\Wash\obj\Debug\net5.0-windows\AddWashWindow.g.cs
+C:\Users\Julya\Desktop\Проекты\task\Wash\obj\Debug\net5.0-windows\AdminWindow.g.cs
+C:\Users\Julya\Desktop\Проекты\task\Wash\obj\Debug\net5.0-windows\ChangeStatusWindow.g.cs
+C:\Users\Julya\Desktop\Проекты\task\Wash\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Julya\Desktop\Проекты\task\Wash\obj\Debug\net5.0-windows\WorkerWindow.g.cs
+C:\Users\Julya\Desktop\Проекты\task\Wash\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Julya\Desktop\Проекты\task\Wash\obj\Debug\net5.0-windows\Wash_MarkupCompile.cache
+C:\Users\Julya\Desktop\Проекты\task\Wash\obj\Debug\net5.0-windows\Wash_MarkupCompile.lref
+C:\Users\Julya\Desktop\Проекты\task\Wash\obj\Debug\net5.0-windows\App.baml
+C:\Users\Julya\Desktop\Проекты\task\Wash\obj\Debug\net5.0-windows\AddEmpoyeeWindow.baml
+C:\Users\Julya\Desktop\Проекты\task\Wash\obj\Debug\net5.0-windows\AddWashWindow.baml
+C:\Users\Julya\Desktop\Проекты\task\Wash\obj\Debug\net5.0-windows\AdminWindow.baml
+C:\Users\Julya\Desktop\Проекты\task\Wash\obj\Debug\net5.0-windows\ChangeStatusWindow.baml
+C:\Users\Julya\Desktop\Проекты\task\Wash\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Julya\Desktop\Проекты\task\Wash\obj\Debug\net5.0-windows\WorkerWindow.baml
+C:\Users\Julya\Desktop\Проекты\task\Wash\obj\Debug\net5.0-windows\Wash.g.resources
+C:\Users\Julya\Desktop\Проекты\task\Wash\obj\Debug\net5.0-windows\Wash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julya\Desktop\Проекты\task\Wash\obj\Debug\net5.0-windows\Wash.AssemblyInfoInputs.cache
+C:\Users\Julya\Desktop\Проекты\task\Wash\obj\Debug\net5.0-windows\Wash.AssemblyInfo.cs
+C:\Users\Julya\Desktop\Проекты\task\Wash\obj\Debug\net5.0-windows\Wash.csproj.CoreCompileInputs.cache
+C:\Users\Julya\Desktop\Проекты\task\Wash\obj\Debug\net5.0-windows\Wash.csproj.CopyComplete
+C:\Users\Julya\Desktop\Проекты\task\Wash\obj\Debug\net5.0-windows\Wash.dll
+C:\Users\Julya\Desktop\Проекты\task\Wash\obj\Debug\net5.0-windows\refint\Wash.dll
+C:\Users\Julya\Desktop\Проекты\task\Wash\obj\Debug\net5.0-windows\Wash.pdb
+C:\Users\Julya\Desktop\Проекты\task\Wash\obj\Debug\net5.0-windows\Wash.genruntimeconfig.cache
+C:\Users\Julya\Desktop\Проекты\task\Wash\obj\Debug\net5.0-windows\ref\Wash.dll

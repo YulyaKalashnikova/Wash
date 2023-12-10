@@ -1,0 +1,61 @@
+﻿<Window x:Class="Wash.WorkerWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wash"
+        mc:Ignorable="d"
+        Title="WorkerWindow" Height="450" Width="800" WindowStartupLocation="CenterScreen" Closing="Window_Closing" Style="{StaticResource DefaultWindow}" Icon="/icon.png">
+    <Grid>
+        <TabControl Margin="15" Name="MainControl">
+            <TabItem Header="Активные стирки">
+                <DataGrid Name="ActiveWashGrid" AutoGenerateColumns="False" IsReadOnly="True" ColumnWidth="*" MouseDoubleClick="ChangeStatus_MouseDoubleClick">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="№" Binding="{Binding Code}"></DataGridTextColumn>
+                        <DataGridTextColumn Header="Номер стиральной машинки" Binding="{Binding Machine.Name}"></DataGridTextColumn>
+                        <DataGridTextColumn Header="Порошок" Binding="{Binding Powder.Name}"></DataGridTextColumn>
+                        <DataGridTextColumn Header="Сушка" Binding="{Binding Drying.Name}"></DataGridTextColumn>
+                        <DataGridTextColumn Header="Сотрудник" Binding="{Binding Staff.FullName}"></DataGridTextColumn>
+                    </DataGrid.Columns>
+                </DataGrid>
+            </TabItem>
+            <TabItem Header="Завершённые стирки">
+                <DataGrid Name="IsNoActiveWashGrid" AutoGenerateColumns="False" IsReadOnly="True" ColumnWidth="*" MouseDoubleClick="ChangeStatus_MouseDoubleClick">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="№" Binding="{Binding Code}"></DataGridTextColumn>
+                        <DataGridTextColumn Header="Номер стиральной машинки" Binding="{Binding Machine.Name}"></DataGridTextColumn>
+                        <DataGridTextColumn Header="Порошок" Binding="{Binding Powder.Name}"></DataGridTextColumn>
+                        <DataGridTextColumn Header="Сушка" Binding="{Binding Drying.Name}"></DataGridTextColumn>
+                        <DataGridTextColumn Header="Сотрудник" Binding="{Binding Staff.FullName}"></DataGridTextColumn>
+                        <DataGridTextColumn Header="Статус" Binding="{Binding Status}"></DataGridTextColumn>
+                    </DataGrid.Columns>
+                </DataGrid>
+            </TabItem>
+            <TabItem Header="Кассовый отчёт">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <Border Style="{StaticResource DefaultBorder}" MouseDown="Border_MouseDown" Tag="1">
+                        <TextBlock Text="Количество стирок за смену"></TextBlock>
+                    </Border>
+                    <Border Style="{StaticResource DefaultBorder}" MouseDown="Border_MouseDown" Tag="2" Grid.Column="1">
+                        <TextBlock Text="Сумма наличного расчёта"></TextBlock>
+                    </Border>
+                    <Border Style="{StaticResource DefaultBorder}" MouseDown="Border_MouseDown" Grid.Column="2" Tag="2">
+                        <TextBlock Text="Сумма безналичного расчёта"></TextBlock>
+                    </Border>
+                    <Button Grid.Column="1" Grid.Row="1" Content="Сохранить отчёт" Name="BtnReport" Click="BtnReport_Click"></Button>
+                </Grid>
+            </TabItem>
+        </TabControl>
+        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Top" Margin="100 15 15 0" Text="{Binding ElementName=MainControl,Path=SelectedItem.Header}"></TextBlock>
+        <Button HorizontalAlignment="Right" VerticalAlignment="Top" Name="BtnAdd" Click="BtnAdd_Click" Margin="0 5 15 0" Content="Добавить стирку"></Button>
+    </Grid>
+</Window>

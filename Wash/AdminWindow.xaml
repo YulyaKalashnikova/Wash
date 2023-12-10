@@ -1,0 +1,35 @@
+﻿<Window x:Class="Wash.AdminWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wash"
+        mc:Ignorable="d"
+        Title="Администратор" Name="ThisWindow" Height="450" Width="800" Closing="ThisWindow_Closing" WindowStartupLocation="CenterScreen" Style="{StaticResource DefaultWindow}">
+    <Grid>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <TextBlock Grid.Column="1" Text="Администратор"></TextBlock>
+            <Button Grid.Column="2" HorizontalAlignment="Right" Margin="10" Content="Добавить сотрудника" Name="BtnAdd" Click="BtnAdd_Click"></Button>
+            <Border Grid.Row="1" Style="{StaticResource DefaultBorder}" MouseDown="Border_MouseDown" Tag="1">
+                <TextBlock Text="Количество стирок во всех филиалах" TextWrapping="Wrap"></TextBlock>
+            </Border>
+            <Border Grid.Row="1" Style="{StaticResource DefaultBorder}" MouseDown="Border_MouseDown" Tag="2" Grid.Column="1">
+                <TextBlock Text="Общая стоимость за наличный расчёт" TextWrapping="Wrap"></TextBlock>
+            </Border>
+            <Border Style="{StaticResource DefaultBorder}" Grid.Row="1" MouseDown="Border_MouseDown" Grid.Column="2" Tag="2">
+                <TextBlock Text="Общая стоимость за безналичный расчёт" TextWrapping="Wrap"></TextBlock>
+            </Border>
+            <Button Grid.Column="1" Grid.Row="2" Content="Сохранить отчёт" Name="BtnReport" Click="BtnReport_Click"></Button>
+        </Grid>
+    </Grid>
+</Window>
